@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+}
+
+img {
+    border-radius: 100%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+
+
+#header{
+    border-width: 1px;
+    border-style: solid;
+    border-color: yellowss;
+    padding: 15px;
+    margin-left: 35%;
+    text-align: center;
+}
+
+#navlinks {
+    position: fixed;
+
+
+#list{
+    border-width: 1px;
+    border-style: solid;
+    border-color: red;
+    padding: 15px;
+    margin-left: 35%;
+}
